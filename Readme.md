@@ -26,6 +26,5 @@
 > ![enter image description here](images/cloud-os.png)
 
 #### Hypervisor
->A hypervisor or virtual machine monitor (VMM) is computer software, firmware or hardware that creates and runs virtual machines. A computer on which a hypervisor runs one or more virtual machines is called a host machine, and each virtual machine is called a guest machine.
-
+>A hypervisor or virtual machine monitor (VMM) is computer software, firmware or hardware that creates and runs virtual machines.
 > ![enter image description here](images/hypervisor-2.jpg)
