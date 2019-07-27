@@ -22,8 +22,8 @@
 - SaaS - *software as service*
 
 ### IaaS  - *Infrastructure as service*
-#### virtualization
->virtualization refers to the act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, storage devices, and computer network resources.
+#### Virtualization
+>Virtualization refers to the act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, storage devices, and computer network resources.
 >
 >Virtualization is the logical division of physical computing resources
 >
