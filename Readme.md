@@ -31,5 +31,5 @@
 
 #### Hypervisor
 >A hypervisor or virtual machine monitor (VMM) is computer software, firmware or hardware that creates and runs virtual machines. 
-
+>
 > ![enter image description here](images/hypervisor-2.jpg)
