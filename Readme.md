@@ -13,6 +13,7 @@
 - Community Cloud
 - Public Cloud
 - Hybrid Cloud
+- ![enter image description here](images/pvtCloudPublic.png)
 
 ## Service Models
 - IaaS  - *Infrastructure as service*
@@ -33,12 +34,16 @@
 > ![enter image description here](images/hypervisor-2.jpg)
 
 >#### Popular hypervisors available in the current market
-> - ESXi -VMWare
-> - Hyper-V - Microsoft
-> - XenServer - Citrix
+> - ESXi -*VMWare*
+> - Hyper-V - *Microsoft*
+> - XenServer - *Citrix*
 
 #### Containers
 >A container is operating system level virtualization, where the OS kernel provides isolated user spaces to run specific application 
 >
 >Its a standard unit of software that packages up code and all its dependencies 
 >![enter image description here](images/ContianersArch.jpeg)
+
+>#### Popular container technology in the current market
+> - Docker - *Docker Inc*
+
