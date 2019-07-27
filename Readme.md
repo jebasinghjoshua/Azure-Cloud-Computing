@@ -13,7 +13,7 @@
 - Community Cloud
 - Public Cloud
 - Hybrid Cloud
-- ![enter image description here](images/pvtCloudPublic.png)
+>![enter image description here](images/pvtCloudPublic.png)
 
 ## Service Models
 - IaaS  - *Infrastructure as service*
