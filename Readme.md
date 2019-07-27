@@ -1,5 +1,3 @@
-
-
 # Learning Azure Cloud 
 
 ## Cloud Computing
@@ -39,3 +37,8 @@
 > - Hyper-V - Microsoft
 > - XenServer - Citrix
 
+#### Containers
+>A container is operating system level virtualization, where the OS kernel provides isolated user spaces to run specific application 
+>
+>Its a standard unit of software that packages up code and all its dependencies 
+>![enter image description here](images/ContianersArch.jpeg)
