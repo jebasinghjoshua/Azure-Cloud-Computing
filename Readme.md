@@ -1,3 +1,4 @@
+
 # Learning Azure Cloud 
 
 ## Cloud Computing
@@ -24,3 +25,7 @@
 >virtualization refers to the act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, storage devices, and computer network resources.
 > ![enter image description here](images/cloud-os.png)
 
+#### Hypervisor
+>A hypervisor or virtual machine monitor (VMM) is computer software, firmware or hardware that creates and runs virtual machines. A computer on which a hypervisor runs one or more virtual machines is called a host machine, and each virtual machine is called a guest machine.
+
+> ![enter image description here](images/hypervisor-2.jpg)
