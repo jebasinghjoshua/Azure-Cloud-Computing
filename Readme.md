@@ -21,6 +21,12 @@
 - SaaS - *software as service*
 
 ### IaaS  - *Infrastructure as service*
+> Giving provision for the consumer to access storage, networks, and other fundamental computing resources 
+
+> Consumer can able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, and deployed applications
+
+> Infrastructure as a service (IaaS) is a form of cloud computing that provides virtualized computing resources over the internet
+
 #### Virtualization
 >Virtualization refers to the act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, storage devices, and computer network resources.
 >
