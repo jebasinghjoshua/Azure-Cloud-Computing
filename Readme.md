@@ -22,7 +22,7 @@
 
 >![enter image description here](images/CloudAzureTypes.png)
 
-[Pizaa As Service Example!](https://www.linkedin.com/pulse/20140730172610-9679881-pizza-as-a-service)
+>[Albert Barron's pizaa as service example](https://www.linkedin.com/pulse/20140730172610-9679881-pizza-as-a-service)
 
 ### IaaS  - *Infrastructure as service*
 > Giving provision for the consumer to access storage, networks, and other fundamental computing resources 
