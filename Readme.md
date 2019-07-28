@@ -56,4 +56,26 @@
 > Consumer can able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, and deployed applications
 
 > Infrastructure as a service (IaaS) is a form of cloud computing that provides virtualized computing resources over the internet
-> Azure offerings Virtual Machines, Containers 
+
+> Azure offerings Virtual Machines, Containers
+
+#### Virtual Machines 
+- Linux or Windows 
+- Prebuilt images (pre installed tools like visual studio , Sql Server)
+- Varying sizes (CPU Size)
+- Premium Storage like SSD
+- Consumers need to take care of OS, and other activities like Sofware installation, Patches update
+  Networking, load balancing, fail over etc.
+  
+#### Containers
+- Chain images together
+- light weight 
+- Sharing single os and physical server resources
+- resource utilization is more when compare to VM
+
+### Paas  - *Platform as service*
+> platform-based service is a category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app
+
+
+
+
