@@ -56,3 +56,4 @@
 > Consumer can able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, and deployed applications
 
 > Infrastructure as a service (IaaS) is a form of cloud computing that provides virtualized computing resources over the internet
+> Azure offerings Virtual Machines, Containers 
