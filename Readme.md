@@ -52,7 +52,7 @@
 >>A container is operating system level virtualization, where the OS kernel provides isolated user spaces to run specific application 
 >>
 >>Its a standard unit of software that packages up code and all its dependencies 
->>![enter image description here](images/ContianersArch.jpeg)
+>>![enter image description here](images/Container.png)
 
 >>#### Popular container technology in the current market
 >> - Docker - *Docker Inc*
