@@ -20,6 +20,9 @@
 - PaaS - *platform as service*
 - SaaS - *software as service*
 
+>Pizza as service example
+>![enter image description here](images/Pizza.png)
+
 ### IaaS  - *Infrastructure as service*
 > Giving provision for the consumer to access storage, networks, and other fundamental computing resources 
 
