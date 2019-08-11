@@ -76,6 +76,19 @@
 ### Paas  - *Platform as service*
 > platform-based service is a category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app
 
+### Some of the Paas services in azure
+- Web Apps
+- Mobile Apps
+- Logic Apps
+- Azure Functions
+- Azure Web Jobs
+- Azure Storage (Blob/Table/Queue/File)
+
+### SaaS  - *Software as service*
+SaaS is the highest abstraction level and allows you to just use the application, you don’t even have to build it. You just configure it. No need to worry about the OS or even scaling the app. This allows you to work on business value, but offers you little control over your application.
+
+Example:  Azure IoT Suite & Office 365
+
 
 
 
